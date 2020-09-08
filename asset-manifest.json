@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/joshryals.com/static/css/main.95d901ff.chunk.css",
+    "main.js": "/joshryals.com/static/js/main.935b208d.chunk.js",
+    "main.js.map": "/joshryals.com/static/js/main.935b208d.chunk.js.map",
+    "runtime-main.js": "/joshryals.com/static/js/runtime-main.99741df7.js",
+    "runtime-main.js.map": "/joshryals.com/static/js/runtime-main.99741df7.js.map",
+    "static/css/2.11829350.chunk.css": "/joshryals.com/static/css/2.11829350.chunk.css",
+    "static/js/2.9071e4c3.chunk.js": "/joshryals.com/static/js/2.9071e4c3.chunk.js",
+    "static/js/2.9071e4c3.chunk.js.map": "/joshryals.com/static/js/2.9071e4c3.chunk.js.map",
+    "index.html": "/joshryals.com/index.html",
+    "precache-manifest.f69ba7c536cbdbf7ab1714dc478a7de8.js": "/joshryals.com/precache-manifest.f69ba7c536cbdbf7ab1714dc478a7de8.js",
+    "service-worker.js": "/joshryals.com/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/joshryals.com/static/css/2.11829350.chunk.css.map",
+    "static/css/main.95d901ff.chunk.css.map": "/joshryals.com/static/css/main.95d901ff.chunk.css.map",
+    "static/js/2.9071e4c3.chunk.js.LICENSE.txt": "/joshryals.com/static/js/2.9071e4c3.chunk.js.LICENSE.txt",
+    "static/media/DTU_logo.png": "/joshryals.com/static/media/DTU_logo.e7d7866d.png",
+    "static/media/PM_logo.png": "/joshryals.com/static/media/PM_logo.8c6ed5d9.png",
+    "static/media/PathFind_logo.JPG": "/joshryals.com/static/media/PathFind_logo.5627a998.JPG",
+    "static/media/app_icon_inverted.png": "/joshryals.com/static/media/app_icon_inverted.0e5c0f00.png",
+    "static/media/tree_logo.png": "/joshryals.com/static/media/tree_logo.bccf3c84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99741df7.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.9071e4c3.chunk.js",
+    "static/css/main.95d901ff.chunk.css",
+    "static/js/main.935b208d.chunk.js"
+  ]
+}
