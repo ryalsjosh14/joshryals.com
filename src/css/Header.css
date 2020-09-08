@@ -1,0 +1,62 @@
+.header{
+    /*background: linear-gradient(blue, darkblue);*/
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.darkHeader{
+    /*: linear-gradient(blue, darkblue);
+    background-color:blue;*/
+    /*background: white;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.modeButton{
+    font-size: 36pt;
+    background:inherit;
+    border:none;
+}
+
+.name{
+    margin-top: 1%;
+    color:blue;
+    letter-spacing: 1px;
+    font-weight:bold;
+    font-size: 24pt;
+    font-family: Montserrat; 
+}
+
+.darkName{
+    margin-top: 1%;
+    color:white;
+    letter-spacing: 1px;
+    font-weight:bold;
+    font-size: 24pt;
+    font-family: Montserrat; 
+}
+
+.menu{
+    color:blue;
+    font-size: large;
+    margin-bottom: 1%;
+}
+
+.darkMenu{
+    color:white;
+    font-size: large;
+    margin-bottom: 1%;
+}
+
+.scroll{
+    padding:4px;
+    color:blue;
+}
+
+.darkScroll{
+    padding:4px;
+    color:white;
+}

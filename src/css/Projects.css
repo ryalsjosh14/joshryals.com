@@ -1,0 +1,33 @@
+.education{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.title{
+    position:relative;
+    width:100%;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18pt;
+    font-weight: bolder;
+}
+.description{
+    position: relative;
+    width: 100%;
+    padding-left:2%;
+    padding-right: 2%;
+}
+
+.section{
+    padding-bottom: 50px;
+  }
+
+  .projectImg{
+      height: 220px;
+  }
+
+  .treeImg{
+    height: 220px;
+    background:orange;
+}

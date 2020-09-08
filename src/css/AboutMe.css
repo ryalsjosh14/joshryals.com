@@ -1,0 +1,31 @@
+.about{
+    font-size: 14pt;
+    color: black;
+    font-family: Montserrat;
+    line-height: 1.65;
+}
+
+.darkAbout{
+    font-size: 14pt;
+    color:white;
+    font-family: Montserrat;
+    line-height: 1.65;
+}
+.title{
+    font-size: 18pt;
+    font-weight: bolder;
+    font-family: Montserrat; 
+}
+
+.darkTitle{
+    font-size: 18pt;
+    font-weight: bolder;
+    font-family: Montserrat;
+    color:white;
+}
+.description{
+    position: relative;
+    width: 100%;
+    padding-left:2%;
+    padding-right: 2%;
+}

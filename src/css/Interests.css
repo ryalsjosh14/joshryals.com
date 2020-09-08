@@ -1,0 +1,45 @@
+.education{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.title{
+    font-size: 18pt;
+    font-weight: bolder;
+}
+.description{
+    position: relative;
+    width: 100%;
+    padding-left:2%;
+    padding-right: 2%;
+    color:white
+}
+
+.interestLogo{
+    position: relative;
+    width: 256px;
+    background-color: white;
+    border-radius: 30%;
+    padding:2%;
+    margin-right:10px;
+    border-color: black;
+}
+
+.interestTitle{
+    font-size:16pt;
+    font-weight: bold;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.darkIntTitle{
+    font-size:16pt;
+    font-weight: bold;
+    margin-top:10px;
+    margin-bottom:10px;
+    color:white
+}
+
+.involvementCont{
+    margin-bottom: 50px;
+}
