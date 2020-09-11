@@ -16,9 +16,10 @@
 }
 
 .modeButton{
-    font-size: 36pt;
-    background:inherit;
-    border:none;
+    position: relative;
+    width:8vw;
+    height: 8vw;
+    margin-top:10px;
 }
 
 .name{
@@ -43,12 +44,21 @@
     color:blue;
     font-size: large;
     margin-bottom: 1%;
+    justify-content: center;
 }
 
 .darkMenu{
     color:white;
     font-size: large;
     margin-bottom: 1%;
+    justify-content: center;
+
+}
+
+.menuInside{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .scroll{
@@ -59,4 +69,8 @@
 .darkScroll{
     padding:4px;
     color:white;
+}
+
+.emojiContainer{
+    padding:0px;
 }

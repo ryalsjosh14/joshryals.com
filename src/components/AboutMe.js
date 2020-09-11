@@ -18,13 +18,13 @@ export default function AboutMe({ mode }){
                 </Col>
                 <Col lg={10}>
                     <p className={aboutClass}>
-                    My name is Josh Ryals, and I am a fourth year Computer Engineering Student with a strong intertest in machine learning and other 
+                    I am a fourth year Computer Engineering Student with a strong intertest in machine learning and other 
                     data-driven techniques. I have used knowledge acquired from the classroom as well as other experiences to build multiple projects, which 
                     can be seen below. 
                     </p>
 
                     <p className={aboutClass}>
-                    I am currently searching for a summer internship in software engineering or related fields. If you would like to contact me, I can be reached at joshryals3@gmail.com 
+                    I am currently searching for a summer internship in software engineering or related fields. If you would like to contact me, I can be reached at {<a href="mailto:joshryals3@gmail.com">joshryals3@gmail.com </a>}.
                     </p>
                 </Col>
     

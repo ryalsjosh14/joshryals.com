@@ -37,7 +37,12 @@ export default function Education( { mode }){
                         </Row>
                         <Row>
                             <header className={majorClass}>
-                                Major in Computer Engineering | Cumulative GPA: 3.84/4.00
+                                Major in Computer Engineering
+                            </header>
+                        </Row>
+                        <Row>
+                            <header className={majorClass}>
+                                Cumulative GPA: 3.84/4.00
                             </header>
                         </Row>
                     </Container>
