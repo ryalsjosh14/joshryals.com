@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "539068c79b57072fe75c533c594b1b61",
+    "revision": "baa934aa8e8596f9de5e9520a54249e3",
     "url": "/joshryals.com/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joshryals.com/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "c34e4918988380d6f853",
-    "url": "/joshryals.com/static/css/main.38035857.chunk.css"
+    "revision": "b109afe917209a384a92",
+    "url": "/joshryals.com/static/css/main.217dc1b2.chunk.css"
   },
   {
     "revision": "e99c0d71760a482a474f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joshryals.com/static/js/2.ae1e3f97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c34e4918988380d6f853",
-    "url": "/joshryals.com/static/js/main.e8a4d2d1.chunk.js"
+    "revision": "b109afe917209a384a92",
+    "url": "/joshryals.com/static/js/main.319cdac2.chunk.js"
   },
   {
     "revision": "e41d028e6f1bd33f8d04",
