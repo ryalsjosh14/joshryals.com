@@ -51,7 +51,7 @@ export default function Header({mode, setMode}){
                     </Container>
                 </Col >
                 <Col xs={2} className="emojiContainer">
-                    <img alt="emoji" src={modeImg} onClick={ ()=> setMode(!mode)} className="modeButton"></img>
+                    <img alt="emoji" src={modeImg} onClick={ ()=> setMode(!mode)} className="sunButton"></img>
                 </Col>
             </Row>      
         </div>

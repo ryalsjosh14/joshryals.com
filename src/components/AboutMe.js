@@ -7,12 +7,14 @@ export default function AboutMe({ mode }){
 
     //let titleClass = mode ? "darkTitle" : "title";
     let aboutClass = mode ? "darkAbout" : "about";
+    let titleClass = mode ? "darkTitle" : "title";
+
 
     return(
         <Container className="section">
             <Row>
                 <Col lg={2}>
-                    <header className="title">
+                    <header className={titleClass}>
                         About me
                     </header>
                 </Col>

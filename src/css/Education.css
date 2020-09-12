@@ -16,6 +16,19 @@
     font-family: Montserrat;
     margin-bottom: 20px;
 }
+.darkTitle{
+    position:relative;
+    width:100%;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 16pt;
+    font-weight: bolder;
+    color:rgb(0, 100, 255);
+    /*color:rgb(0,123,255);*/
+    font-family: Montserrat;
+    margin-bottom: 20px;
+}
+
 .description{
     position: relative;
     width: 100%;
@@ -67,6 +80,7 @@
 .logo{
     position: relative;
     width: 42pt;
+    height: 32pt;
     border-radius: 25pt;
     margin-right:10px
 }

@@ -22,9 +22,17 @@
     margin-top:10px;
 }
 
+.sunButton{
+    position: relative;
+    width:8vw;
+    height: 8vw;
+    margin-top:10px;
+    animation: rotation 20s infinite linear;
+}
+
 .name{
     margin-top: 1%;
-    color:blue;
+    color:black;
     letter-spacing: 1px;
     font-weight:bold;
     font-size: 24pt;
@@ -73,4 +81,14 @@
 
 .emojiContainer{
     padding:0px;
+}
+
+
+@keyframes rotation {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(359deg);
+    }
 }

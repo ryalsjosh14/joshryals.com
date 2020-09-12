@@ -7,15 +7,15 @@ import PathFindLogo from '../logos/PathFind_logo.JPG'
 import treeLogo from '../logos/tree_logo.png'
 
 
+export default function Education({ mode }){
+    let titleClass = mode ? "darkTitle" : "title";
 
 
-
-export default function Education(){
     return(
         <Container className="section">
             <Row>
                 <Col lg={2}>
-                    <header className="title">
+                    <header className={titleClass}>
                         Projects
                     </header>
                 </Col>

@@ -27,7 +27,7 @@ function App() {
         <Education mode={darkMode}></Education>
       </div>
       <div className="projects">
-        <Projects></Projects>
+        <Projects mode={darkMode}></Projects>
       </div>
       <div id="interests">
         <Interests mode={darkMode}></Interests>

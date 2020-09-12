@@ -9,13 +9,15 @@ export default function Education( { mode }){
     let gradTitleClass = mode ? "darkGradTitle" : "gradTitle";
     let dateClass = mode ? "darkDate" : "date";
     let majorClass = mode ? "darkMajor" : "major";
+    let titleClass = mode ? "darkTitle" : "title";
+
 
 
     return(
         <Container className="section">
             <Row>
                 <Col lg={2}>
-                    <header className="title">
+                    <header className={titleClass}>
                         Education
                     </header>
                 </Col>   

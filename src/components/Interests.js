@@ -11,7 +11,8 @@ import DTULogo from '../logos/DTU_logo.png'
 export default function Interests( { mode }){
 
     let descriptionClass = mode ? "description" : "";
-    let titleClass = mode ? "darkIntTitle" : "interestTitle";
+    let intTitleClass = mode ? "darkIntTitle" : "interestTitle";
+    let titleClass = mode ? "darkTitle" : "title";
 
 
 
@@ -19,7 +20,7 @@ export default function Interests( { mode }){
         <Container className="section">
             <Row>
                 <Col lg={2}>
-                    <header className="title">
+                    <header className={titleClass}>
                         Involvement
                     </header> 
                 </Col>  
@@ -32,7 +33,7 @@ export default function Interests( { mode }){
                             <Col>
                                 <Container>
                                     <Row>
-                                        <header className={titleClass}>
+                                        <header className={intTitleClass}>
                                             Project Makeover UF
                                         </header>
                                     </Row>
@@ -57,7 +58,7 @@ export default function Interests( { mode }){
                             <Col>
                                 <Container>
                                     <Row>
-                                        <header className={titleClass}>
+                                        <header className={intTitleClass}>
                                             Dream Team Engineering
                                         </header>
                                     </Row>
