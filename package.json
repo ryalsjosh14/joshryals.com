@@ -2,7 +2,7 @@
   "name": "ryalsjosh_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "joshryals.com/",
+  "homepage": "https://ryalsjosh14.github.io/joshryals.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
