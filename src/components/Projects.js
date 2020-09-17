@@ -1,7 +1,6 @@
 import React from 'react';
 import '../css/Projects.css'
-import { Container, Col, Row, Card, Button } from 'react-bootstrap'
-import UFLogo from '../logos/UF_logo.jpg'
+import { Container, Col, Row, Card } from 'react-bootstrap'
 import SDLogo from '../logos/app_icon_inverted.png'
 import PathFindLogo from '../logos/PathFind_logo.JPG'
 import treeLogo from '../logos/tree_logo.png'

@@ -5,6 +5,15 @@
     line-height: 1.65;
 }
 
+.contact{
+    font-weight: bolder;
+}
+
+.darkContact{
+    font-weight: bolder;
+    color:white;
+}
+
 .darkAbout{
     font-size: 14pt;
     color:white;

@@ -39,10 +39,10 @@ export default function Interests( { mode }){
                                     </Row>
                                     <Row>
                                         <p className={descriptionClass}>
-                                            For the past 2 years, I have enhoyed serving as a captain on the construction team for Project Makeover.
+                                            For the past 2 years, I have enjoyed serving as a captain for Project Makeover UF.
                                             Project Makeover is a student volunteer organization which carries out a multitude of improvement projects
                                             at a local elementary school each year. I have been able to work with the construction team, where we have built
-                                            things such as painting easels, playground cars and giant connect 4. 
+                                            things such as painting easels, playground cars and a gaga ball pit. 
                                         </p>
                                     </Row>
                                 </Container>
