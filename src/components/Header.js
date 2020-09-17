@@ -13,7 +13,6 @@ import Moon from '../logos/moon_emoji.png'
 
 export default function Header({mode, setMode}){
     
-    let header= mode ? "darkHeader" : "header";
     let headerName = mode ? "darkName" : "name";
     let menuClass = mode ? "darkMenu" : "menu";
     let scrollClass = mode ? "darkScroll" : "scroll";
@@ -22,7 +21,7 @@ export default function Header({mode, setMode}){
 
 
     return(
-        <div className={header}>
+        <Container>
             <Row>
                 <Col xs={2}></Col>
                 <Col xs={8}>
@@ -54,10 +53,14 @@ export default function Header({mode, setMode}){
                     <img alt="emoji" src={modeImg} onClick={ ()=> setMode(!mode)} className="sunButton"></img>
                 </Col>
             </Row>      
-        </div>
+        </Container>
     )
 }
 
+
+/*
+                    <img alt="emoji" src={modeImg} onClick={ ()=> setMode(!mode)} className="sunButton"></img>
+*/
 
 /* <button onClick={() => setMode(!mode)} className="modeButton">
                         {mode ? "🌙" : "☀️"}

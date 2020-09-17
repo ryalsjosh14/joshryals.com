@@ -1,12 +1,9 @@
 .App {
-  text-align:left
+  text-align:left;
+  overflow-x: none;
 }
 .section{
   padding-bottom: 50px;
-}
-.body{
-  margin-left:6vw;
-  margin-right:15vw;
 }
 
 .back{
